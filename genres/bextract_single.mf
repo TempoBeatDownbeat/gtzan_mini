@@ -41,13 +41,13 @@
 /Users/gtzan/data/sound/genres/jazz/jazz.00000.au	jazz
 /Users/gtzan/data/sound/genres/jazz/jazz.00001.au	jazz
 /Users/gtzan/data/sound/genres/jazz/jazz.00002.au	jazz
-/Users/gtzan/data/sound/genres/jazz/jazz.00003.au	jazz
 /Users/gtzan/data/sound/genres/jazz/jazz.00004.au	jazz
 /Users/gtzan/data/sound/genres/jazz/jazz.00005.au	jazz
 /Users/gtzan/data/sound/genres/jazz/jazz.00006.au	jazz
 /Users/gtzan/data/sound/genres/jazz/jazz.00007.au	jazz
 /Users/gtzan/data/sound/genres/jazz/jazz.00008.au	jazz
-/Users/gtzan/data/sound/genres/jazz/jazz.00009.au	jazz
+/Users/gtzan/data/sound/genres/jazz/jazz.00011.au	jazz
+/Users/gtzan/data/sound/genres/jazz/jazz.00012.au	jazz
 /Users/gtzan/data/sound/genres/rock/rock.00000.au	rock
 /Users/gtzan/data/sound/genres/rock/rock.00001.au	rock
 /Users/gtzan/data/sound/genres/rock/rock.00002.au	rock
